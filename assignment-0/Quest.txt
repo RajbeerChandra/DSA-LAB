@@ -1,0 +1,33 @@
+1 WAP to create an array that can store max. 50 integers and display the
+contents of the array
+
+2 WAP to find out the sum of the numbers stored in an array of integers.
+
+3 WAP to find largest element stored in an array.
+
+4 WAP to display the array elements in ascending order.
+
+5 WAP to add two matrices and display it.
+
+6 WAP to multiply two matrices and display it.
+
+7 WAP to find the Trace(sum of the diagonal element) of a given mxn
+matrix .
+
+8. WAP to find out the sum of the elements stored in a matrix.
+
+9. WAP to find out the transpose of a given matrix.
+
+10. WAP to find the factorial of a number n by using a suitable user
+defined function (say fact) for
+it.
+
+11. WAP to swap two numbers using call by reference.
+
+12. WAP to print the numbers which are divisible by 7 and 13 within a range.
+
+13. WAP to replace all vowels from a string with its immediate consonant.
+
+14. WAP to find the position of substring in a given string.
+
+15. Count frequency of each character in a string.
