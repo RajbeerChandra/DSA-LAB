@@ -1,0 +1,23 @@
+1. WAP to read two polynomial and perform their addition using 1D array.
+
+2. WAP to read two polynomial and perform their subtraction using 1D array.
+
+3. WAP to read two polynomial and perform their multiplication using 1D array.
+
+4. WAP to read two polynomial and perform their division using 1D array.
+
+5. WAP to read two polynomial and perform their addition using 2D array.
+
+6. WAP to read two polynomial and perform their subtraction using 2D array.
+
+7. WAP to read two polynomial and perform their multiplication using 2D array.
+
+8. WAP to read two polynomial and perform their division using 2D array.
+
+9. Write an algorithm to add the original sparse matrix with the transpose of the same matrix.
+
+10. WAP to add and subtract two sparse matrix
+
+11. WAP to multiply two sparse matrices.
+
+12. WAP to divide two sparse matrices.

@@ -1,0 +1,18 @@
+SparseMatrix SparseMatrix::Transpose()
+{
+Construct a SparseMatrix, b(cols, rows, terms);
+If (terms > 0) {
+Let rowSize be an integer array of size cols.
+Let rowStart be an integer array of size cols.
+Initialize each element in rowSize to 0.
+For (i=0; i rowSize [smArray[i].col]++;
+rowStart [0] = 0;
+For (i = 1; i < cols; i++)
+rowStart [i] = rowSize [i-1] + rowStart [i-1];
+For (i=0; i < terms; i++) {
+j = rowStart [ smArray [i].col ];
+Copy smArray[ i ] to smArray[ j ];
+Interchange row and col of smArray[ j ];
+rowStart [ smArray [i].col ]++;
+}
+}
