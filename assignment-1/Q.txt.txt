@@ -1,0 +1,12 @@
+1)WAP in  c to create an array and display the reverse of that array
+NB :Don’t display in reverse order  , i.e reverse the element means n-1th element will be stored in 0th location and n-2 th element in 1th location.
+
+2)WAP in c to insert an element into the array at any position .
+
+3)WAP in c to delete an element from any position.
+
+4)WAP in c to delete a particular element.
+
+5)WAP in c to find the occurrence  of an element.
+
+6)WAP in c to search a particular element.
