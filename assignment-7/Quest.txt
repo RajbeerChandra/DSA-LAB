@@ -1,0 +1,39 @@
+1. WAP TO ADD TWO POLYNOMIAL OF 2 VARIABLE (EX. 2X^2Y^3+XY+1, 5X^5Y+7XY+5)
+USING LINKED LIST.
+
+2.WAP TO READ 3 SPARSE MATRIX AND PERFORM THEIR ADDITION
+USING LINKED LIST.
+
+3.WAP TO READ 3 SPARSE MATRIX AND PERFORM THEIR MULTIPLICATION USING LINKED LIST.
+
+4.WAP Write a menu driven program to perform the following
+operations of a stack using array by using suitable user defined
+functions for each case.
+a) Check if the stack is empty
+b) Display the contents of stack 
+c) Push 
+d) Pop    
+
+5.WAP Write a menu driven program to perform the following operations of a
+stack using linked list by using suitable user defined functions for
+each case.
+
+6.WAP to convert an infix expression into its equivalent postfix notation
+
+7.WAP to convert an infix expression into its equivalent prefix notation.
+
+8.Two brackets are considered to be a matched pair if the an opening bracket
+(i.e., (, [, or { ) occurs to the left of a closing bracket (i.e., ), ],
+or }) of the exact same type. There are three types of matched pairs of
+brackets: [], {}, and (). A matching pair of brackets is not balanced
+if the set of brackets it encloses are not matched. WAP to determine
+whether the input sequence of brackets is balanced or not. If a string
+is balanced, it print YES on a new line; otherwise, print NO on a new
+line.
+Example: Input: {[()]} and Output: YES
+Input: {[(])} and Output: NO
+
+9.WAP to reverse a stack with using extra stack.
+
+10.WAP to sort the elements inside a stack using only push and pop operation. 
+Any number of additional stacks may be used.
